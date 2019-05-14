@@ -1,0 +1,16 @@
+body {
+    background-color: #383a3f;
+    color: #ffffff;
+}
+
+button {
+    width: 150px;
+}
+
+.li {
+    background-color: white;
+    width: 90px;
+    padding: 20px 0px;
+    color: black;
+    font-size: 60px;
+}

@@ -1,5 +1,8 @@
 <?php
 
+include 'class.php';
+session_start();
+
 //CREATING AN ARRAY,ASSOCIATIVE ARRAY AND AN OBJECT.
 
 //Normal array
